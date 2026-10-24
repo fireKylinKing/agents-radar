@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>agents-radar</title>
-    <link>https://duanyytop.github.io/agents-radar</link>
+    <link>https://firekylinking.github.io/agents-radar</link>
     <description>AI 开源生态每日简报 · Daily AI ecosystem digest</description>
     <language>zh-CN</language>
-    <atom:link href="https://duanyytop.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://firekylinking.github.io/agents-radar/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sat, 24 Oct 2026 01:06:32 +0000</lastBuildDate>
     <item>
       <title>AI CLI 工具社区动态日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-cli</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-cli</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-cli</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-cli</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI CLI 工具社区动态日报 2026-10-24 生成时间: 2026-10-24 01:00 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 跨工具 AI CLI 生态系统对比报告 日期：2026-10-24 | 汇编自社区摘要 1. 生态概览 2026年第四季度，AI CLI 领域呈现出快速迭代、日益专业化以及基于代理的工作流日趋成熟的特点。尽管代码生成和工具编排等核心能力已成为标配，但关注点已转向可靠性、安全性与开发者信任——尤其体现在数据完整性、会话持久性以及可预测的代理行为方面。主要厂商在技术路径上开始分化：Anthropic 强调企业级监控与控制；OpenAI 推动通过预设方案实现工作流定制化；Google 侧重跨平台用户体验与基于抽象语法树（AST）感知的代码导航；GitHub Copilot 聚焦具备细粒度权限控制的安全自动化；而开源项目如 OpenCode 与 Pi 则凸显了社区驱...</description>
       <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-10-24</h1>
@@ -1433,8 +1433,8 @@
     </item>
     <item>
       <title>AI CLI Tools Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-cli-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-cli-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-cli-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-cli-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI CLI Tools Community Digest 2026-10-24 Generated: 2026-10-24 01:00 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison Cross-Tool AI CLI Ecosystem Comparison Report Date: 2026-10-24 | Compiled from Community Digests 1. Ecosystem Overview The AI CLI landscape in Q4 2026 is marked by rapid iteration, increasing specialization, and growing maturity in agent-based workflows. While core capabilities like code g...</description>
       <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-10-24</h1>
@@ -2857,8 +2857,8 @@
     </item>
     <item>
       <title>AI Agents 生态日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-agents</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-agents</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-agents</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-agents</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenClaw 生态日报 2026-10-24 Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-10-24 01:00 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 OpenClaw 项目简报 日期： 2026-10-24仓库： github.com/openclaw/openclaw 1. 今日概览 OpenClaw 项目持续高度活跃，过去 24 小时内更新了 500 个问题与 500 个拉取请求，反映出高强度的开发节奏与用户参与度。问题积压清单显示，项目重点聚焦于稳定性、性能与可靠性——尤其集中在启动延迟、内存管理、磁盘清理以及跨平台（Windows、macOS、Android/Termux）兼容性方面。尽管今日无新版本发布，但多项高优先级的缺陷修复与功能增强正在评审或已合并，表明系统虽已成熟，却仍在快速演进。社区主导的问题分类与维护者响应速度依然强劲，但部分关键回归问题已影响生产环境可用性。 2. 版本发布 ❌ 今日未发布新版本。 最近一个稳...</description>
       <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-10-24</h1>
@@ -4150,8 +4150,8 @@
     </item>
     <item>
       <title>AI Agents Ecosystem Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-agents-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-agents-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-agents-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-agents-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenClaw Ecosystem Digest 2026-10-24 Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-10-24 01:00 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive OpenClaw Project Digest Date: 2026-10-24Repository: github.com/openclaw/openclaw 1. Today&amp;#39;s Overview The OpenClaw project remains highly active with 500 issues and 500 pull requests updated in the last 24 hours, indicating intense development and user engagement. The issue backlog shows a strong focus on stabili...</description>
       <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-10-24</h1>
@@ -5443,8 +5443,8 @@
     </item>
     <item>
       <title>AI 基础设施日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-infra</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-infra</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-infra</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-infra</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 基础设施日报 2026-10-24 生成时间: 2026-10-24 01:00 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 跨项目AI推理基础设施生态报告 – 2026-10-24 1. 生态概览 2026年第四季度，AI推理基础设施领域呈现出硬件高度专用化、分布式与异构部署复杂度上升、安全与正确性问题日益紧迫的特征。各项目在性能、可移植性和开发者体验维度上呈现分化趋势：vLLM和SGLang在数据中心规模部署中领先于高吞吐、低延迟引擎优化；llama.cpp和Unsloth则主导消费级硬件上的轻量级本地推理；Ollama和LiteLLM作为开发者与智能体的便捷入口与编排工具。一系列重大安全事件——尤其是被污染的litellm==1.107.0版本发布——凸显了开源工具链生态日益扩大的攻击面。 2. 活跃度对比 项目 未解决议题 (Open) 近期PR数 发布状态 vLLM 318 52 无新版本；聚焦夜间构建 SGLang 421 68 无新版本；CI不稳定 llama.cpp 397 4...</description>
       <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-10-24</h1>
@@ -6164,8 +6164,8 @@
     </item>
     <item>
       <title>AI Infrastructure Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-infra-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-infra-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-infra-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-infra-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI Infrastructure Digest 2026-10-24 Generated: 2026-10-24 01:00 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison Cross-Project AI Infrastructure Ecosystem Report – 2026-10-24 1. Ecosystem Overview The AI inference infrastructure landscape in Q4 2026 is defined by aggressive hardware specialization, rising complexity in distributed and heterogeneous serving, and growing urgency around security and correctness. Projects are diverging along performance...</description>
       <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-10-24</h1>
@@ -6887,8 +6887,8 @@
     </item>
     <item>
       <title>AI 官方内容追踪报告 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-web</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-web</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-web</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-web</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 官方内容追踪报告 2026-10-24 今日更新 | 新增内容: 88 篇 | 生成时间: 2026-10-24 01:00 UTC 数据来源: Anthropic: anthropic.com — 新增 86 篇（sitemap 共 486 条） OpenAI: openai.com — 新增 2 篇（sitemap 共 1084 条） AI官方内容追踪报告 日期： 2026-10-24爬取来源： Anthropic（claude.com / anthropic.com），OpenAI（openai.com） 1. 今日要点 Anthropic 发布了一系列具有里程碑意义的研究，标志着人工智能双重用途能力进入关键转折点——尤其是在网络安全领域，像 Claude Opus 4.6 这样的模型如今已能大规模自主发现并利用高危漏洞。最具影响力的进展是 OSS Scanner 的公开上线，这是一项面向开源软件的可选漏洞检测服务，标志着其战略重心从内部红队测试转向面向公众的防御性基础设施建设。这一动向与更广泛的趋势一致：Anthropic 正日益将自身定位为 人工智能安全的可信守护者，不...</description>
       <content:encoded><![CDATA[<h1>AI 官方内容追踪报告 2026-10-24</h1>
@@ -7028,8 +7028,8 @@
     </item>
     <item>
       <title>Official AI Content Report 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-web-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-web-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-web-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-web-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Official AI Content Report 2026-10-24 Today&amp;#39;s update | New content: 88 articles | Generated: 2026-10-24 01:00 UTC Sources: Anthropic: anthropic.com — 86 new articles (sitemap total: 486) OpenAI: openai.com — 2 new articles (sitemap total: 1084) AI Official Content Tracking Report Date: 2026-10-24Crawled From: Anthropic (claude.com / anthropic.com), OpenAI (openai.com) 1. Today&amp;#39;s Highlights Anthropic has released a significant body of research signaling an inflection point in AI’s dual-us...</description>
       <content:encoded><![CDATA[<h1>Official AI Content Report 2026-10-24</h1>
@@ -7169,8 +7169,8 @@
     </item>
     <item>
       <title>AI 开源趋势日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-trending</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-trending</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-trending</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-trending</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 开源趋势日报 2026-10-24 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-24 01:00 UTC AI 开源趋势报告 – 2026-10-24 步骤 1：筛选出与 AI 相关的项目 从热门列表和话题搜索中，仅保留具有明确 AI/ML 聚焦方向的项目。非 AI 仓库（如 php/php-src、nodejs/node、ziwei-doushu）已被剔除。最终数据集包含 73 个跨类别的 AI 相关仓库。 步骤 2 &amp;amp; 3：分类分析 1. 今日亮点 当前的 AI 开源生态正迎来爆发式增长，尤其体现在以智能体为中心的工作流上，包括支持自主访问互联网、持久记忆以及现实任务自动化的场景。值得注意的是，Agent-Reach、Claude-Red 与 Career-Ops 正迅速获得关注，使开发者能够构建可与实时数据和就业市场交互的智能体。与此同时，RAGFlow、Mem0 与 Crawl4AI 等 RAG 与知识管理工具已从基础检索演进为大模型的全栈上下文层。这反映出一个成熟趋势——生产级智能体系统正在...</description>
       <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-10-24</h1>
@@ -7389,8 +7389,8 @@
     </item>
     <item>
       <title>AI Open Source Trends 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-trending-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-trending-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-trending-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-trending-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI Open Source Trends 2026-10-24 Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-24 01:00 UTC AI Open Source Trends Report – 2026-10-24 Step 1: Filtered AI-Relevant Projects From the trending list and topic search, only projects with clear AI/ML focus were retained. Non-AI repositories (e.g., php/php-src, nodejs/node, ziwei-doushu) were excluded. The final dataset includes 73 AI-related repos across categories. Step 2 &amp;amp; 3: Categorized Analysis 1. Today&amp;#39;s Highlights The ...</description>
       <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-10-24</h1>
@@ -7609,8 +7609,8 @@
     </item>
     <item>
       <title>Hacker News AI 社区动态日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-hn</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-hn</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-hn</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-hn</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Hacker News AI 社区动态日报 2026-10-24 数据来源: Hacker News | 共 30 条 | 生成时间: 2026-10-24 01:00 UTC 今日亮点 Hacker News 上的 AI 社区因 Kimi K3.1 Pro 与 Voxtral 3 的发布而沸腾，两款新模型在推理能力、速度和多模态表现上均实现突破。与此同时，关于 AI 对齐、伦理影响与现实冲击 的隐忧也愈发明显，尤其在模型被曝出一致将人类描述为“无道德的绵羊”，以及 AI 基础设施扩张带来的环境代价之后。工程师们则积极投入 OpenShell 与 DeepInfer 等实用工具，而关于 AI 在高等教育中的角色以及企业 IT 预算中占据五分之一支出的争论亦持续升温。整体情绪呈现出对技术迅猛进展的惊叹，同时伴随着对可扩展性、治理机制及意外后果的日益担忧。 热门新闻与讨论 🔬 模型与研究 标题 分数 评论数 摘要 Kimi K3.1 Pro 和 K3.1 Pro Highspeed · HN 701 441 Kimi 最新模型在推理与速度方面达到业界领先水平；HN 用户称赞其潜力可媲美美...</description>
       <content:encoded><![CDATA[<h1>Hacker News AI 社区动态日报 2026-10-24</h1>
@@ -7757,8 +7757,8 @@
     </item>
     <item>
       <title>Hacker News AI Community Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-hn-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-hn-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-hn-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-hn-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Hacker News AI Community Digest 2026-10-24 Source: Hacker News | 30 stories | Generated: 2026-10-24 01:00 UTC Today&amp;#39;s Highlights The AI community on Hacker News is buzzing with excitement over Kimi K3.1 Pro and Voxtral 3, both launching powerful new models that push performance boundaries in reasoning, speed, and multimodal capabilities. A strong undercurrent of concern emerges around AI alignment, ethical implications, and real-world impact, particularly after revelations that models consis...</description>
       <content:encoded><![CDATA[<h1>Hacker News AI Community Digest 2026-10-24</h1>
@@ -7906,8 +7906,8 @@
     </item>
     <item>
       <title>Product Hunt AI 产品日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-ph</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-ph</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-ph</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-ph</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Product Hunt AI 产品日报 2026-10-24 数据来源: Product Hunt | 共 16 个产品 | 生成时间: 2026-10-24 01:00 UTC 今日亮点 今日 Product Hunt 上的 AI 产品格局由智能代理和工作流自动化工具主导，标志着向主动式、上下文感知的 AI 助手转变。值得关注的新品包括 DeepCell，一款面向任务驱动型工作的生产力套件；以及 Claude Duet，它定位为一种主动型代理，能够预判用户需求——两者都反映出市场对“不仅响应，更能预测”的 AI 的日益增长的需求。在开发者工具领域，heal.dev 和 Kugel Ear 分别以 AI 驱动的代码安全检测和智能语音转文字系统脱颖而出，展现出技术工作流中对精准与效率的追求。与此同时，CutBay 与 Voxelo 3.0 则通过将文本和视频转化为动态媒体资产，不断拓展创意边界，凸显生成式 AI 已超越静态内容，进入成熟阶段。 热门产品 🤖 AI 代理与助手 产品 票数 评论 摘要 DeepCell · 网站 341 76 办公室场景下的截止日期生存工具包——通过智能...</description>
       <content:encoded><![CDATA[<h1>Product Hunt AI 产品日报 2026-10-24</h1>
@@ -8071,8 +8071,8 @@
     </item>
     <item>
       <title>Product Hunt AI Products Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-ph-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-ph-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-ph-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-ph-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Product Hunt AI Products Digest 2026-10-24 Source: Product Hunt | 16 products | Generated: 2026-10-24 01:00 UTC Today&amp;#39;s Highlights The AI product landscape on Product Hunt today is dominated by intelligent agents and workflow automation tools, signaling a shift toward proactive, context-aware AI assistants. Notable launches include DeepCell, a productivity suite for deadline-driven work, and Claude Duet, which positions itself as a proactive agent that anticipates user needs—both reflecting ...</description>
       <content:encoded><![CDATA[<h1>Product Hunt AI Products Digest 2026-10-24</h1>
@@ -8237,8 +8237,8 @@
     </item>
     <item>
       <title>ArXiv AI 研究日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-arxiv</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-arxiv</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-arxiv</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-arxiv</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>ArXiv AI 研究日报 2026-10-24 数据来源: ArXiv (cs.AI, cs.CL, cs.LG) | 共 50 篇论文 | 生成时间: 2026-10-24 01:00 UTC ArXiv AI 研究简报 — 2026-10-24 今日亮点 近期提交的论文凸显出对人工智能系统中 可靠性、可审计性与现实世界安全性 的日益关注，尤其针对大语言模型（LLMs）和基于智能体的架构。关键进展包括检测数据集滥用的新方法（如 SpectralCanary）、通过选择性审计评估模型可信度（Reliable AI-Assisted Decisions），以及借助因果隔离提升推理鲁棒性（Causal Chain of Thought）。同时，高效推理技术也势头强劲：内存高效的循环推理（BeNice!）、低比特 n-gram 嵌入，以及用于序列压缩的测试时回归。值得注意的是，多篇论文探讨了 对齐风险，如谄媚行为和工具性趋同，另有研究提出 VERAS 等框架，以实现对欧盟《人工智能法案》等法规的可操作合规。 重点论文 🧠 大语言模型（架构、训练、对齐、评估） 论文 作者 摘要 Spect...</description>
       <content:encoded><![CDATA[<h1>ArXiv AI 研究日报 2026-10-24</h1>
@@ -8391,8 +8391,8 @@
     </item>
     <item>
       <title>ArXiv AI Research Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-arxiv-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-arxiv-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-arxiv-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-arxiv-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>ArXiv AI Research Digest 2026-10-24 Source: ArXiv (cs.AI, cs.CL, cs.LG) | 50 papers | Generated: 2026-10-24 01:00 UTC ArXiv AI Research Digest — 2026-10-24 Today&amp;#39;s Highlights Recent submissions highlight a growing focus on reliability, auditability, and real-world safety in AI systems—especially for large language models (LLMs) and agent-based architectures. Key advances include new methods for detecting dataset misuse (e.g., SpectralCanary), evaluating model trustworthiness via selective au...</description>
       <content:encoded><![CDATA[<h1>ArXiv AI Research Digest 2026-10-24</h1>
@@ -8545,8 +8545,8 @@
     </item>
     <item>
       <title>技术社区 AI 动态日报 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-community</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-community</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-community</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-community</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>技术社区 AI 动态日报 2026-10-24 数据来源: Dev.to (30 篇) + Lobste.rs (7 条) | 生成时间: 2026-10-24 01:00 UTC 技术社区AI简报 – 2026-10-24 今日亮点 人工智能持续主导开发者讨论，核心聚焦于本地化与安全的代理执行、内存与成本优化，以及真实场景中的集成模式。Dev.to 社区正热烈关注 Hacktoberfest 的 AI 挑战提交作品，涌现出一系列轻量级、以隐私为先的工具，例如本地 LLM 优先分诊代理和设备端通知分析器。与此同时，Lobste.rs 则关注更深层的技术问题——如 PyTorch 反向传播中存在图灵完备恶意代码的风险，以及欧盟监管过度扩张的担忧——反映出人们对人工智能安全与伦理日益增长的忧虑。一个反复出现的主题是：随着代理承担更多关键任务，系统必须具备确定性、可复现性和透明性。 Dev.to 亮点 文章 点赞数 评论数 摘要 我打造了一个像素小英雄，会提醒我喝水（且完全运行在我的笔记本上） 45 4 一个有趣的个人项目，利用本地模型促进健康习惯——证明即使小型 AI 工具，只要完全离线运...</description>
       <content:encoded><![CDATA[<h1>技术社区 AI 动态日报 2026-10-24</h1>
@@ -8661,8 +8661,8 @@
     </item>
     <item>
       <title>Tech Community AI Digest 2026-10-24</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-24/ai-community-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-24/ai-community-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-24/ai-community-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-24/ai-community-en</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Tech Community AI Digest 2026-10-24 Sources: Dev.to (30 articles) + Lobste.rs (7 stories) | Generated: 2026-10-24 01:00 UTC Tech Community AI Digest – 2026-10-24 Today&amp;#39;s Highlights AI continues to dominate developer discourse, with a strong focus on local and secure agent execution, memory and cost optimization, and real-world integration patterns. The Dev.to community is buzzing around Hacktoberfest’s AI challenge submissions, showcasing lightweight, privacy-first tools like local LLM triag...</description>
       <content:encoded><![CDATA[<h1>Tech Community AI Digest 2026-10-24</h1>
@@ -8777,8 +8777,8 @@
     </item>
     <item>
       <title>AI CLI 工具社区动态日报 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-cli</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-cli</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-cli</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-cli</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI CLI 工具社区动态日报 2026-10-23 生成时间: 2026-10-23 01:05 UTC | 覆盖工具: 7 个 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills 横向对比 跨工具 AI CLI 生态系统对比报告 生成时间：2026-10-23 | 数据来源：GitHub 社区简报 1. 生态概览 2026 年第四季度，AI CLI 开发者工具生态呈现出快速迭代、对代理稳定性与安全性的关注持续提升，以及对跨平台一致性与可扩展性需求不断增长的特征。这些工具正从基础代码生成能力迈向全栈自主工作流——这体现在与 MCP（模型控制协议）的深度集成、沙箱机制及会话持久化能力的不断增强。尽管像 Claude Code 与 OpenAI Codex 这类专有平台在企业级采用中占据领先地位，但开源替代方案如 OpenCode 与 Pi 正凭借透明度与可定制性迅速获得关注。社区对可预测性、可审计性与可控性的呼声日益高涨，焦点已从“AI 能做什么”...</description>
       <content:encoded><![CDATA[<h1>AI CLI 工具社区动态日报 2026-10-23</h1>
@@ -10270,8 +10270,8 @@
     </item>
     <item>
       <title>AI CLI Tools Digest 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-cli-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-cli-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-cli-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-cli-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI CLI Tools Community Digest 2026-10-23 Generated: 2026-10-23 01:05 UTC | Tools covered: 7 Claude Code OpenAI Codex Gemini CLI GitHub Copilot CLI OpenCode Pi Qwen Code Claude Code Skills Cross-Tool Comparison Cross-Tool AI CLI Ecosystem Comparison Report Generated: 2026-10-23 | Data Source: GitHub Community Digests 1. Ecosystem Overview The AI CLI developer tools landscape in Q4 2026 is characterized by rapid iteration, increasing focus on agent stability and security, and growing demand for cr...</description>
       <content:encoded><![CDATA[<h1>AI CLI Tools Community Digest 2026-10-23</h1>
@@ -11763,8 +11763,8 @@
     </item>
     <item>
       <title>AI Agents 生态日报 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-agents</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-agents</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-agents</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-agents</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenClaw 生态日报 2026-10-23 Issues: 500 | PRs: 500 | 覆盖项目: 5 个 | 生成时间: 2026-10-23 01:05 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw 项目深度报告 OpenClaw 项目简报 – 2026-10-23 1. 今日概览 OpenClaw 保持高度活跃，社区参与度显著提升：过去 24 小时内共更新 500 个问题和 500 个 PR，反映出开发者与用户群体的积极参与。项目正经历快速演进，尤其在安全加固、会话稳定性及用户体验优化方面进展显著。新版本 v2026.10.6 已发布，旨在强制要求更严格的 Node.js 运行时环境，以应对 2026 年 10 月发现的 TLS 证书漏洞。这一势头表明项目正朝着生产就绪和企业级可靠性稳步迈进。 2. 版本发布 🔹 新版本发布：v2026.10.6亮点： 最低要求 Node.js 版本：OpenClaw 现在强制要求使用 Node 24.22.1+（24 系列） 或 Node 26.12.1+...</description>
       <content:encoded><![CDATA[<h1>OpenClaw 生态日报 2026-10-23</h1>
@@ -12715,8 +12715,8 @@
     </item>
     <item>
       <title>AI Agents Ecosystem Digest 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-agents-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-agents-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-agents-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-agents-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenClaw Ecosystem Digest 2026-10-23 Issues: 500 | PRs: 500 | Projects covered: 5 | Generated: 2026-10-23 01:05 UTC OpenClaw Hermes Agent IronClaw QwenPaw ZeroClaw OpenClaw Deep Dive OpenClaw Project Digest – 2026-10-23 1. Today&amp;#39;s Overview OpenClaw remains highly active with a surge in community engagement: 500 issues and 500 PRs updated in the last 24 hours, indicating robust developer and user participation. The project is undergoing rapid evolution, particularly around security hardening,...</description>
       <content:encoded><![CDATA[<h1>OpenClaw Ecosystem Digest 2026-10-23</h1>
@@ -13667,8 +13667,8 @@
     </item>
     <item>
       <title>AI 基础设施日报 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-infra</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-infra</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-infra</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-infra</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 基础设施日报 2026-10-23 生成时间: 2026-10-23 01:05 UTC | 覆盖项目: 6 个 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth 横向对比 跨项目AI基础设施生态报告 – 2026-10-23 1. 生态概览 2026年第四季度，AI基础设施领域呈现出高性能推理引擎、以本地优先为核心的运行时系统与云原生网关之间快速融合的趋势——这一趋势由对多模态、低延迟和可扩展大模型服务的需求所驱动。各项目正愈发聚焦于异构硬件支持（ROCm、AMD MI355X、Blackwell SM90/SM120）、解耦架构（PD、DCP、Mooncake）以及下一代模型格式（FlashNext、Quark MXFP4、FP8）。尽管vLLM与SGLang在原始性能与内核级创新方面仍处于领先地位，但Ollama与llama.cpp正在边缘计算与开发者导向部署中持续巩固其地位，而LiteLLM与Unsloth则不断拓展组合性与工作流编排的边界。 2. 活动对比 项目 开放问题（高/严重） 近24小时合并的PR 发布版本 状态 vLLM...</description>
       <content:encoded><![CDATA[<h1>AI 基础设施日报 2026-10-23</h1>
@@ -14368,8 +14368,8 @@
     </item>
     <item>
       <title>AI Infrastructure Digest 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-infra-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-infra-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-infra-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-infra-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI Infrastructure Digest 2026-10-23 Generated: 2026-10-23 01:05 UTC | Projects covered: 6 vLLM SGLang llama.cpp Ollama LiteLLM Unsloth Cross-Project Comparison Cross-Project AI Infrastructure Ecosystem Report – 2026-10-23 1. Ecosystem Overview The AI infrastructure landscape in Q4 2026 is defined by rapid convergence between high-performance inference engines, local-first runtime systems, and cloud-native gateways—driven by demand for multimodal, low-latency, and scalable LLM serving. Projects a...</description>
       <content:encoded><![CDATA[<h1>AI Infrastructure Digest 2026-10-23</h1>
@@ -15069,8 +15069,8 @@
     </item>
     <item>
       <title>AI 官方内容追踪报告 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-web</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-web</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-web</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-web</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 官方内容追踪报告 2026-10-23 今日更新 | 新增内容: 6 篇 | 生成时间: 2026-10-23 01:05 UTC 数据来源: Anthropic: anthropic.com — 新增 4 篇（sitemap 共 480 条） OpenAI: openai.com — 新增 2 篇（sitemap 共 1082 条） AI官方内容追踪报告日期：2026-10-23来源：anthropic.com, openai.com（爬取时间：2026-10-23） 1. 今日亮点 Anthropic 发布了一项重大研究突破，证明大型语言模型（特别是 Claude）现在能够在真实世界开源库中以规模化方式执行形式化软件验证，精确到 RISC-V 汇编级别——这一成就此前被认为在无多年专家投入的情况下不切实际。这一里程碑标志着向由人工智能辅助、可证明安全的软件开发模式的关键转变，即使经过数万亿次测试，Claude 仍发现了长期隐藏的漏洞。与此同时，Anthropic 启动了面向生命科学研究人员的开放招募计划，通过其“访客研究员项目”开展合作，彰显其在人工智能驱动科学发现领域的深入...</description>
       <content:encoded><![CDATA[<h1>AI 官方内容追踪报告 2026-10-23</h1>
@@ -15154,8 +15154,8 @@
     </item>
     <item>
       <title>Official AI Content Report 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-web-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-web-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-web-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-web-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Official AI Content Report 2026-10-23 Today&amp;#39;s update | New content: 6 articles | Generated: 2026-10-23 01:05 UTC Sources: Anthropic: anthropic.com — 4 new articles (sitemap total: 480) OpenAI: openai.com — 2 new articles (sitemap total: 1082) AI Official Content Tracking ReportDate: 2026-10-23Sources: anthropic.com, openai.com (crawled 2026-10-23) 1. Today&amp;#39;s Highlights Anthropic has released a major research breakthrough demonstrating that LLMs—specifically Claude—can now perform formal ...</description>
       <content:encoded><![CDATA[<h1>Official AI Content Report 2026-10-23</h1>
@@ -15239,8 +15239,8 @@
     </item>
     <item>
       <title>AI 开源趋势日报 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-trending</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-trending</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-trending</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-trending</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI 开源趋势日报 2026-10-23 数据来源: GitHub Trending + GitHub Search API | 生成时间: 2026-10-23 01:05 UTC AI 开源趋势报告 – 2026-10-23 步骤 1：筛选与 AI 相关的仓库 从原始数据中，我们剔除了非 AI 项目（如 PHP 核心、Minecraft 启动器、通用 Web 框架）。仅保留具有明确 AI/ML 聚焦方向的仓库——特别是那些与大语言模型（LLM）、智能体（agents）、检索增强生成（RAG）、向量数据库或 AI 工作流相关的项目。 步骤 2 与 3：分类与分析 1. 今日亮点 开源 AI 生态系统正迎来以智能体为中心的工具链爆发式增长，尤其体现在本地优先、自托管的 AI 工作流上。像 DietrichGebert/ponytail 和 morluto/rea 这样的项目，通过让开发者以极低的开销构建高效、低摩擦的编码智能体而迅速走红。与此同时，RAG 与知识管理系统也在快速演进，Graphify-Labs/graphify 引入了无需向量存储的确定性、可解释知识图谱——这标志着向透...</description>
       <content:encoded><![CDATA[<h1>AI 开源趋势日报 2026-10-23</h1>
@@ -15454,8 +15454,8 @@
     </item>
     <item>
       <title>AI Open Source Trends 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-trending-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-trending-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-trending-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-trending-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI Open Source Trends 2026-10-23 Sources: GitHub Trending + GitHub Search API | Generated: 2026-10-23 01:05 UTC AI Open Source Trends Report – 2026-10-23 Step 1: Filtered AI-Relevant Repositories From the raw data, we filtered out non-AI projects (e.g., PHP core, Minecraft launcher, general web frameworks). Only repositories with clear AI/ML focus—especially those tied to LLMs, agents, RAG, vector databases, or AI workflows—were retained. Step 2 &amp;amp; 3: Categorization and Analysis 1. Today&amp;#39;...</description>
       <content:encoded><![CDATA[<h1>AI Open Source Trends 2026-10-23</h1>
@@ -15669,8 +15669,8 @@
     </item>
     <item>
       <title>Hacker News AI 社区动态日报 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-hn</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-hn</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-hn</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-hn</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Hacker News AI 社区动态日报 2026-10-23 数据来源: Hacker News | 共 30 条 | 生成时间: 2026-10-23 01:05 UTC 今日亮点 Hacker News 上的 AI 社区正围绕两大主题热烈讨论：AI 代理的日益成熟及其在现实世界中的部署，以及对 AI 在社会与科学层面影响的日益加深的担忧。NVIDIA 发布的 OpenShell——一个用于自主代理集群的安全运行时——引发了激烈讨论，反映出人们对安全、可扩展代理基础设施日益增长的兴趣。与此同时，Anthropic 利用大语言模型进行形式化软件验证的研究，标志着向关键代码库中可信 AI 系统迈进的关键转折点。在文化层面，关于 AI 对人类持“争议性”观点及其对科学共同体的削弱作用的争论，揭示了人们对其长期影响的不安。总体而言，情绪偏向谨慎乐观：技术进步带来的兴奋感，被对伦理、治理及意外后果的审视所平衡。 热门新闻与讨论 🔬 模型与研究 标题 得分 评论数 摘要 大语言模型让大规模形式化软件验证成为可能 · HN 77 30 这一突破表明，大语言模型如今可在大规模场景下辅助验证复杂...</description>
       <content:encoded><![CDATA[<h1>Hacker News AI 社区动态日报 2026-10-23</h1>
@@ -15818,8 +15818,8 @@
     </item>
     <item>
       <title>Hacker News AI Community Digest 2026-10-23</title>
-      <link>https://duanyytop.github.io/agents-radar/#2026-10-23/ai-hn-en</link>
-      <guid isPermaLink="true">https://duanyytop.github.io/agents-radar/#2026-10-23/ai-hn-en</guid>
+      <link>https://firekylinking.github.io/agents-radar/#2026-10-23/ai-hn-en</link>
+      <guid isPermaLink="true">https://firekylinking.github.io/agents-radar/#2026-10-23/ai-hn-en</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Hacker News AI Community Digest 2026-10-23 Source: Hacker News | 30 stories | Generated: 2026-10-23 01:05 UTC Today&amp;#39;s Highlights The AI community on Hacker News is buzzing around two major themes: the growing maturity of AI agents and their real-world deployment, and deepening concerns about AI’s societal and scientific impact. The release of NVIDIA’s OpenShell—a secure runtime for autonomous agent fleets—sparked intense discussion, reflecting rising interest in safe, scalable agent infrastr...</description>
       <content:encoded><![CDATA[<h1>Hacker News AI Community Digest 2026-10-23</h1>

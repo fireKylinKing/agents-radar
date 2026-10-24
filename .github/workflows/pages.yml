@@ -1,0 +1,53 @@
+name: Deploy Radar Pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - index.html
+      - manifest.json
+      - feed.xml
+      - 'digests/**'
+      - 'assets/**'
+      - .github/workflows/pages.yml
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Daily Agents Radar]
+    types: [completed]
+    branches: [master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: radar-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: master
+      - uses: actions/configure-pages@v5
+      - name: Prepare static files
+        run: |
+          mkdir -p _site
+          cp index.html manifest.json feed.xml _site/
+          cp -R digests assets _site/
+          touch _site/.nojekyll
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 面临沙箱数据丢失报告。",
+      "Codex 瞄准 Windows 与 MCP 资源隔离。",
+      "Gemini CLI 迭代智能体编排。",
+      "OpenCode 和 Pi 修复资源生命周期问题。",
+      "Copilot 计费事件引发企业关注。",
+      "Qwen Code 推进 CI 与运行时自动化。"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时更新 500 个议题和 500 个 PR。",
+      "OpenClaw 关闭 92 个议题和 259 个 PR。",
+      "v2026.10.7 新增重放安全的会话恢复。",
+      "LTS 网关版本包含安全回补。",
+      "OpenClaw 的 P0/P1 回归问题仍未解决。",
+      "陈旧标签显示评审带宽瓶颈。"
+    ],
+    "ai-infra": [
+      "vLLM 与 SGLang 承载大量模型加固 PR。",
+      "KV-cache 内存降低推动服务工作。",
+      "投机解码与 MTP 正确性引发争论。",
+      "LiteLLM 遭遇严重供应链事件。",
+      "本地运行时新增 OpenAI/Anthropic 兼容性。",
+      "微调转向多 GPU 并行。"
+    ],
+    "ai-trending": [
+      "cloudflare/security-audit-skill 新增 2,264 星。",
+      "NVIDIA/OpenShell 因沙箱化新增 896 星。",
+      "pbakaus/impeccable 以 +619 星上榜。",
+      "Nutlope/hallmark 因质量新增 455 星。",
+      "makecindy/cindy 作为即用智能体新增 477 星。",
+      "ollama/ollama 保持 184,660 星。"
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro 以 1,057 分登顶 HN。",
+      "Kimi K3.1 Pro 讨论帖获 650 条评论。",
+      "Dream-1 研究发布获 152 分。",
+      "AI 语言可读性论文引发 144 条评论。",
+      "智能体基础设施推出 OpenShell 和 OpenAI CLI 功能。",
+      "HN 讨论 AI 生产力与 ROI 怀疑论。"
+    ],
+    "ai-community": [
+      "Dev.to 聚焦 AI 安全与信任。",
+      "AI 压缩软件安全时间线。",
+      "智能体仍无法验证自身工作。",
+      "系统提示并非真正护栏。",
+      "开发者比较 RAG、CAG 与 KAG。",
+      "Mistral Timestral 与 PyTorch 安全引发关注。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code faces sandbox data-loss reports.",
+      "Codex targets Windows and MCP resource isolation.",
+      "Gemini CLI iterates on agent orchestration.",
+      "OpenCode and Pi fix resource lifecycle issues.",
+      "Copilot billing incidents draw enterprise attention.",
+      "Qwen Code advances CI and runtime automation."
+    ],
+    "ai-agents": [
+      "OpenClaw updates 500 issues and 500 PRs in 24h.",
+      "OpenClaw closes 92 issues and 259 PRs.",
+      "v2026.10.7 adds replay-safe session recovery.",
+      "LTS gateway release ships security backports.",
+      "P0/P1 regressions remain open in OpenClaw.",
+      "Stale labels show review bandwidth bottleneck."
+    ],
+    "ai-infra": [
+      "vLLM and SGLang carry heavy model-hardening PRs.",
+      "KV-cache memory reduction drives serving work.",
+      "Speculative decoding and MTP correctness debated.",
+      "LiteLLM hit by critical supply-chain incident.",
+      "Local runtimes add OpenAI/Anthropic compatibility.",
+      "Fine-tuning moves to multi-GPU parallelism."
+    ],
+    "ai-trending": [
+      "cloudflare/security-audit-skill gains 2,264 stars.",
+      "NVIDIA/OpenShell adds 896 stars for sandboxing.",
+      "pbakaus/impeccable trends with +619 stars.",
+      "Nutlope/hallmark gains 455 stars for quality.",
+      "makecindy/cindy adds 477 stars as turnkey agent.",
+      "ollama/ollama holds 184,660 stars."
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro tops HN with 1,057 points.",
+      "Kimi K3.1 Pro thread draws 650 comments.",
+      "Dream-1 research release earns 152 points.",
+      "AI-language readability paper sparks 144 comments.",
+      "Agent infra launches feature OpenShell and OpenAI CLI.",
+      "HN debates AI productivity and ROI skepticism."
+    ],
+    "ai-community": [
+      "Dev.to focuses on AI security and trust.",
+      "AI compresses software security timelines.",
+      "Agents still fail to verify their own work.",
+      "System prompts are not real guardrails.",
+      "Developers compare RAG, CAG, and KAG.",
+      "Mistral Timestral and PyTorch security draw notice."
+    ]
+  }
+}

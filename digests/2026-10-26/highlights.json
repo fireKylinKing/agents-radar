@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "24小时内无稳定CLI版本发布",
+      "Claude Code记录50个问题但无发布",
+      "OpenAI Codex：50个问题、8个讨论、零PR",
+      "Gemini CLI发布v0.67.0夜间构建",
+      "Gemini CLI以10+次更新领跑PR速度",
+      "信任、成本与长会话稳定性成主要担忧"
+    ],
+    "ai-agents": [
+      "OpenClaw记录358个问题与500次PR更新",
+      "OpenClaw合并或关闭270个PR，未发布任何版本",
+      "Gateway SQLite WAL增长居问题讨论首位",
+      "插件捕获阻塞被标为P0稳定性缺陷",
+      "Steipete主导广泛性能优化行动",
+      "Windows启动与升级回归问题堆积"
+    ],
+    "ai-infra": [
+      "llama.cpp发布九个构建b11879-b11889",
+      "LiteLLM发布四个补丁含v1.106.4",
+      "vLLM、SGLang、Ollama与Unsloth无新发布",
+      "长上下文正确性静默回归成首要风险",
+      "Blackwell、ROCm与Metal缺陷使后端碎片化",
+      "Ollama处理拉取限制与Metal看门狗"
+    ],
+    "ai-trending": [
+      "Cloudflare security-audit-skill以+2,878星领先",
+      "Nutlope/hallmark单日增+1,317星",
+      "VoiceStudio作为本地ElevenLabs竞品获+1,592星",
+      "pbakaus/impeccable单日增+1,092星",
+      "Agent技能成为分发格式",
+      "Memory与RAG工具主导话题池"
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro以1,079分登顶HN",
+      "Cerebras详述万亿参数前沿部署",
+      "Apollo：非科技领域AI无回报引争论",
+      "媒体与创意岗位流失帖引发反弹",
+      "Agent可靠性与安全主导场边讨论",
+      "10岁CNN在皮肤癌上胜过前沿LLMs"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B以18,394赞领先",
+      "Qwen3.8-27B下载达7.76M",
+      "LTX-2.5视频模型获9,335赞",
+      "DeepSeek-V4.1-Flash催生密集衍生集群",
+      "Flux-3 Klein与MOSS-Image带动ComfyUI关注",
+      "SAM3与EmbeddingGemma 2补全发布阵容"
+    ],
+    "ai-community": [
+      "Hacktoberfest激发本地Gemma智能体构建",
+      "AI法案复盘暴露成本归属缺失",
+      "LLM测试揭示错误假设，不止缺陷",
+      "限制LLM并发的是KV-cache而非权重",
+      "模型提议、确定性代码验证模式扩散",
+      "Lobste.rs讨论Mistral时间序列模型"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "No stable CLI releases landed in 24 hours",
+      "Claude Code logs 50 issues but no release",
+      "OpenAI Codex: 50 issues, 8 discussions, zero PRs",
+      "Gemini CLI ships v0.67.0 nightly build",
+      "Gemini CLI leads PR velocity with 10+ updates",
+      "Trust, cost and long-session stability top concerns"
+    ],
+    "ai-agents": [
+      "OpenClaw logs 358 issues and 500 PR updates",
+      "OpenClaw merges or closes 270 PRs, cuts no release",
+      "Gateway SQLite WAL growth tops issue discussions",
+      "Plugin capture blocking flagged as P0 stability bug",
+      "Steipete leads broad performance-optimization campaign",
+      "Windows startup and upgrade regressions pile up"
+    ],
+    "ai-infra": [
+      "llama.cpp ships nine builds b11879-b11889",
+      "LiteLLM releases four patches including v1.106.4",
+      "No new vLLM, SGLang, Ollama or Unsloth release",
+      "Silent long-context correctness regressions top risks",
+      "Blackwell, ROCm and Metal bugs fragment backends",
+      "Ollama works on pull limits and Metal watchdog"
+    ],
+    "ai-trending": [
+      "Cloudflare security-audit-skill leads with +2,878 stars",
+      "Nutlope/hallmark gains +1,317 stars in a day",
+      "VoiceStudio hits +1,592 as local ElevenLabs rival",
+      "pbakaus/impeccable adds +1,092 daily stars",
+      "Agent skills become a distribution format",
+      "Memory and RAG tools dominate topic pool"
+    ],
+    "ai-hn": [
+      "Kimi K3.1 Pro tops HN with 1,079 points",
+      "Cerebras details trillion-parameter frontier deployment",
+      "Apollo: no AI payoff outside tech sparks debate",
+      "Media and creative job-loss thread fuels backlash",
+      "Agent reliability and security dominate side talks",
+      "10-year-old CNN beats frontier LLMs on skin cancer"
+    ],
+    "ai-hf": [
+      "Qwen3.8-27B leads with 18,394 likes",
+      "Qwen3.8-27B hits 7.76M downloads",
+      "LTX-2.5 video model posts 9,335 likes",
+      "DeepSeek-V4.1-Flash spawns dense derivative cluster",
+      "Flux-3 Klein and MOSS-Image drive ComfyUI interest",
+      "SAM3 and EmbeddingGemma 2 round out releases"
+    ],
+    "ai-community": [
+      "Hacktoberfest sparks local Gemma-powered agent builds",
+      "AI bill postmortem exposes missing cost ownership",
+      "LLM tests reveal flawed assumptions, not just bugs",
+      "KV-cache, not weights, limits LLM concurrency",
+      "Model proposes, deterministic code verifies pattern spreads",
+      "Mistral time-series models discussed on Lobste.rs"
+    ]
+  }
+}

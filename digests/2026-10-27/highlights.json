@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.311 新增空闲会话控制",
+      "可靠性与成本治理主导 CLI 流量",
+      "CLI 工具涌现插件与钩子契约",
+      "OpenAI Codex 更新 50 个 issue 和 50 个 PR",
+      "Qwen Code、Codex、Gemini 采用快速每夜发布",
+      "Windows、Wayland、Termux 兼容仍是常见债务"
+    ],
+    "ai-agents": [
+      "OpenClaw 24 小时内更新 1,000 个 issue 和 PR",
+      "OpenClaw 因 P0 阻塞将发布砍至零",
+      "Windows 更新与 SQLite/WAL 缺陷阻塞 OpenClaw",
+      "OpenClaw 清理行动合并 318 个 PR",
+      "OpenClaw 热门 issue 获 139 条评论",
+      "Hermes、IronClaw、QwenPaw 与 ZeroClaw 活跃"
+    ],
+    "ai-infra": [
+      "vLLM 遭遇跨请求 KV 缓存污染",
+      "SGLang 静默替换 Kimi-K3 MXFP4 激活",
+      "LiteLLM 重复计数缺陷触发 422 锁定",
+      "SGLang 将 Qwen3-235B FP8 加载降至 1 秒内",
+      "硬件碎片化横跨 Blackwell、ROCm、MLX",
+      "智能体推理需要工具调用与 MCP GA"
+    ],
+    "ai-trending": [
+      "VoiceStudio 以 +2,297 星领跑趋势",
+      "hallmark 因智能体技能获 +2,244 星",
+      "impeccable 新增 +1,506 星",
+      "ECC 智能体测试框架获 +896 星",
+      "TradingAgents 获 +1,395 星",
+      "记忆工具 claude-mem、mem0、Graphify 趋同"
+    ],
+    "ai-web": [
+      "Anthropic 提交 S-1 拟以 ANT 登陆纳斯达克",
+      "Anthropic 文件未定股数与发行价",
+      "OpenAI 发布五篇仅含元数据的新文章",
+      "Anthropic 新增一篇全文文章",
+      "OpenAI 抓取显示重复 URL 伪影",
+      "报告未断言模型能力或定价"
+    ],
+    "ai-hn": [
+      "Anthropic S-1 主导 Hacker News 讨论",
+      "OpenAI 宣称数学、CS 与物理发现",
+      "预印本称指数时间假设不成立",
+      "GPT-6.1 Terra 发布引发怀疑式兴奋",
+      "Kimi K3.1 Pro 吸引 HN 大量关注",
+      "GLM-5.3 KV 缓存暴露引发安全担忧"
+    ],
+    "ai-arxiv": [
+      "新论文审计并升级晶体预测",
+      "光谱预测被表述为物理约束推理",
+      "AGI 驱动的 BriLLM-MetaPred 语言模型问世",
+      "自蒸馏研究为思考模型引导教师",
+      "联邦学习采用协商式对齐",
+      "因果机器学习平衡收费出行、公平与排放"
+    ],
+    "ai-community": [
+      "AI 智能体安全主导 Dev.to 讨论",
+      "终端型智能体催生新杀毒工具",
+      "密钥在 git 提交前泄露进 AI 工具",
+      "MCP 服务器为省成本从 15 个工具减至 4 个",
+      "Lobste.rs 报道 PyTorch 自动微分漏洞利用",
+      "欧盟数据治理之争引发 Lobste.rs 关注"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.311 adds idle-session controls",
+      "Reliability and cost governance dominate CLI traffic",
+      "Plugin and hook contracts emerge across CLI tools",
+      "OpenAI Codex updates 50 issues and 50 PRs",
+      "Qwen Code, Codex, Gemini use rapid nightly releases",
+      "Windows, Wayland, Termux parity remains common debt"
+    ],
+    "ai-agents": [
+      "OpenClaw updates 1,000 issues and PRs in 24 hours",
+      "OpenClaw cuts zero releases amid P0 blockers",
+      "Windows update and SQLite/WAL bugs block OpenClaw",
+      "OpenClaw merges 318 PRs in cleanup campaign",
+      "Top OpenClaw issue draws 139 comments",
+      "Hermes, IronClaw, QwenPaw and ZeroClaw active"
+    ],
+    "ai-infra": [
+      "vLLM hit by cross-request KV cache contamination",
+      "SGLang silently substitutes Kimi-K3 MXFP4 activations",
+      "LiteLLM double-count bug triggers 422 lockouts",
+      "SGLang cuts Qwen3-235B FP8 load to under 1s",
+      "Hardware fragmentation spans Blackwell, ROCm, MLX",
+      "Agentic inference needs tool-calling and MCP GA"
+    ],
+    "ai-trending": [
+      "VoiceStudio leads trending with +2,297 stars",
+      "hallmark gains +2,244 stars for agent skills",
+      "impeccable adds +1,506 stars",
+      "ECC agent harness hits +896 stars",
+      "TradingAgents gains +1,395 stars",
+      "Memory tools claude-mem, mem0, Graphify converge"
+    ],
+    "ai-web": [
+      "Anthropic files S-1 for Nasdaq IPO under ticker ANT",
+      "Anthropic filing leaves share count and price undetermined",
+      "OpenAI posts five new metadata-only articles",
+      "Anthropic adds one new full-text article",
+      "OpenAI crawl shows duplicate URL artifacts",
+      "No model capabilities or pricing asserted in report"
+    ],
+    "ai-hn": [
+      "Anthropic S-1 dominates Hacker News discussion",
+      "OpenAI claims math, CS, and physics discoveries",
+      "Preprint argues Exponential Time Hypothesis is false",
+      "GPT-6.1 Terra release draws skeptical excitement",
+      "Kimi K3.1 Pro attracts major HN attention",
+      "GLM-5.3 KV-cache exposure raises security concerns"
+    ],
+    "ai-arxiv": [
+      "Crystal prediction audited and upgraded in new paper",
+      "Spectrum prediction framed as physics-constrained reasoning",
+      "AGI-motivated BriLLM-MetaPred language model debuts",
+      "Self-distillation study steers teachers for thinking models",
+      "Federated learning uses negotiated alignment",
+      "Causal ML balances tolling mobility, equity, emissions"
+    ],
+    "ai-community": [
+      "AI-agent security dominates Dev.to discussions",
+      "Terminal-capable agents prompt new antivirus tool",
+      "Secrets leak into AI tools before any git commit",
+      "MCP server trimmed from 15 tools to 4 for cost",
+      "Lobste.rs covers PyTorch autograd exploits",
+      "EU data-governance fight draws Lobste.rs attention"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "七款AI CLI竞逐代理循环可靠性",
+      "七款CLI工具中四款24h内发布更新",
+      "状态完整性与静默故障主导问题队列",
+      "社区寻求签名运行回执与审计轨迹",
+      "企业身份与策略允许列表以代码交付",
+      "供应商路由与沙箱权限成为核心"
+    ],
+    "ai-agents": [
+      "OpenClaw 24h记录500个问题与500个PR",
+      "OpenClaw在beta与stable发布三个版本",
+      "P0 Gateway事件循环阻塞仍未修复",
+      "Windows与更新故障影响OpenClaw用户",
+      "会话与DB恢复缺陷居生产风险之首",
+      "Beta自动化保留操作员权限边界"
+    ],
+    "ai-infra": [
+      "推理服务引擎进入正确性加固阶段",
+      "vLLM SM120 CUDA-graph解码缺陷严重",
+      "SGLang收到63个问题与500个PR更新",
+      "SGLang spec-decode崩溃#43412引关注",
+      "SGLang报告Kimi-K3 SM90静默缺陷",
+      "llama.cpp快速加入LiquidAI LFM3支持"
+    ],
+    "ai-trending": [
+      "Nutlope/hallmark今日增2,830星",
+      "makecindy/cindy今日增1,465星",
+      "HKUDS/DeepTutor今日涨1,598星",
+      "pbakaus/impeccable今日增1,449星",
+      "affaan-m/ECC作为harness层增1,165星",
+      "firecrawl以196,096星领跑RAG栈"
+    ],
+    "ai-web": [
+      "Anthropic在ANT下提交纳斯达克IPO的S-1",
+      "Anthropic向政府提供Claude 40%折扣",
+      "GSA协议预计为政府节省$1B",
+      "Anthropic与六家生物制药启动药物发现",
+      "研究质疑专家是否对代理行使判断",
+      "红队披露五条关键利用链"
+    ],
+    "ai-hn": [
+      "Anthropic S-1以1,689分主导HN",
+      "OpenAI科学发现帖获1,127分",
+      "预印本称指数时间假说不成立",
+      "GPT-6.1 Terra使模型发布争论持续",
+      "亚马逊AI部门裁员加深执行质疑",
+      "盗版书指控再引数据来源担忧"
+    ],
+    "ai-arxiv": [
+      "DCKV学习压缩提示KV缓存",
+      "自键记忆实现对话回忆",
+      "Select-TTT在推理时更新快速权重",
+      "GUI-JEPA用JEPA评估候选GUI动作",
+      "SetGRPO针对评估中的噪声评分器",
+      "TAPESTRY复用视频先验控制机器人"
+    ],
+    "ai-community": [
+      "插件阻止代理未经测试称已修复",
+      "Dev.to聚焦AI证据与验证",
+      "MCP成为生产代理集成标准",
+      "生产代理人工审批门禁逐渐成熟",
+      "MCP工具描述泄露引发安全警报",
+      "PyTorch反向传播恶意软件实验受讨论"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Seven AI CLIs now compete on agent-loop reliability",
+      "Four of seven CLI tools shipped updates in 24h",
+      "State-integrity and silent failures dominate issue queues",
+      "Communities seek signed run receipts and audit trails",
+      "Enterprise identity and policy allowlists ship in code",
+      "Provider routing and sandbox permissions become core"
+    ],
+    "ai-agents": [
+      "OpenClaw logs 500 issues and 500 PRs in 24h",
+      "OpenClaw ships three releases across beta and stable",
+      "P0 Gateway event-loop blocking remains unfixed",
+      "Windows and update failures hit OpenClaw users",
+      "Session and DB recovery bugs top production risks",
+      "Beta automations preserve operator authority boundaries"
+    ],
+    "ai-infra": [
+      "Serving engines enter correctness-hardening phase",
+      "vLLM SM120 CUDA-graph decode bug is critical",
+      "SGLang sees 63 issues and 500 PR updates",
+      "SGLang spec-decode crash #43412 draws attention",
+      "Silent Kimi-K3 SM90 bug reported in SGLang",
+      "llama.cpp quickly adds LiquidAI LFM3 support"
+    ],
+    "ai-trending": [
+      "Nutlope/hallmark gains 2,830 stars today",
+      "makecindy/cindy adds 1,465 stars today",
+      "HKUDS/DeepTutor jumps 1,598 stars today",
+      "pbakaus/impeccable adds 1,449 stars today",
+      "affaan-m/ECC gains 1,165 stars as harness layer",
+      "firecrawl leads RAG stack with 196,096 stars"
+    ],
+    "ai-web": [
+      "Anthropic files S-1 for Nasdaq IPO under ANT",
+      "Anthropic offers 40% Claude discount to governments",
+      "GSA deal estimated to save governments $1B",
+      "Anthropic launches drug discovery with six biopharma",
+      "Study asks if experts exercise judgment on agents",
+      "Red Team reveals five critical exploit chains"
+    ],
+    "ai-hn": [
+      "Anthropic S-1 dominates HN with 1,689 points",
+      "OpenAI science discoveries thread scores 1,127",
+      "Preprint claims Exponential Time Hypothesis is false",
+      "GPT-6.1 Terra keeps model-release debate active",
+      "Amazon AI-division cuts sharpen execution skepticism",
+      "Pirated-books allegation renews data provenance fears"
+    ],
+    "ai-arxiv": [
+      "DCKV learns compressed prompt KV caches",
+      "Self-keyed memorization enables dialogue recall",
+      "Select-TTT updates fast weights at inference",
+      "GUI-JEPA scores candidate GUI actions with JEPA",
+      "SetGRPO targets noisy graders in evaluation",
+      "TAPESTRY reuses video priors for robot control"
+    ],
+    "ai-community": [
+      "Plugin blocks agents from saying fixed without tests",
+      "Dev.to focuses on AI evidence and verification",
+      "MCP emerges as production agent integration standard",
+      "Human approval gates mature for production agents",
+      "MCP tool-description leakage raises security alarms",
+      "PyTorch backward-pass malware experiment discussed"
+    ]
+  }
+}
